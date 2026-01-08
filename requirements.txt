@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+requests
+google-api-python-client
+google-auth-oauthlib
+python-dateutil
+twilio
+duckduckgo-search
+slack-sdk
+python-dotenv
+
+
+
